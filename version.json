@@ -1,0 +1,7 @@
+{
+  "latest": "2.0.1",
+  "min_supported": "2.0.0",
+  "url": "https://raw.githubusercontent.com/ambnuf14-max/saes-ingame-callout/main/moonloader/saes_callout.lua",
+  "changelog": "Экран авторизации: убраны шаги-инструкция, оставлено поле ввода токена.",
+  "repo": "https://github.com/ambnuf14-max/saes-ingame-callout"
+}
