@@ -1,0 +1,24 @@
+{
+  "files": [
+    {
+      "path": "resource/fonts/Inter-Bold.ttf",
+      "size": 420428
+    },
+    {
+      "path": "resource/fonts/Inter-Regular.ttf",
+      "size": 411640
+    },
+    {
+      "path": "resource/fonts/Inter-SemiBold.ttf",
+      "size": 419744
+    },
+    {
+      "path": "resource/fonts/saeslogo.png",
+      "size": 33950
+    },
+    {
+      "path": "resource/sounds/notify.mp3",
+      "size": 27722
+    }
+  ]
+}
